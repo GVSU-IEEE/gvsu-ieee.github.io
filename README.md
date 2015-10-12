@@ -1,3 +1,6 @@
-# IEEE Website
+IEEE Website
+============
 
-This will be the IEEE website repository.
+This repository will be used to host the website for the Grand Valley State
+University Branch of the IEEE.
+
