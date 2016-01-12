@@ -16,6 +16,7 @@ Officers
 * Secretary - Ethan Ruffing
 * Treasurer - Audrey Hendon
 * Trustee - Joshua Edgcombe
+* Academic Advisor - Dr. Ward
 
 Contact Us
 ----------
