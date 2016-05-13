@@ -6,7 +6,7 @@ information about the branch below that.
 
 Calendar
 --------
-<iframe src="https://www.google.com/calendar/embed?src=ieee.org_6vki1i1f9gd6o3p041l7mpinbg%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=mail.gvsu.edu_df3ru71hl6hiifloh9it2osmoc%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Officers
 --------
