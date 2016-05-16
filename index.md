@@ -29,7 +29,7 @@ Find Us Elsewhere
 * GitHub: <https://github.com/GVSU-IEEE>
 
 Contact List
-----
+------------
 To be added to our contact list, use the appropriate link from the options
 below:
 
