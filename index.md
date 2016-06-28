@@ -10,17 +10,17 @@ Calendar
 
 Officers
 --------
-* Chair - Recodeo Rekod
+* Chair - Ethan Ruffing
 * EE Vice Chair - Lauren Hunter
-* CE Vice Chair - Nathan Snyder
-* Secretary - Ethan Ruffing
+* CE Vice Chair - Recodeo Rekod
+* Secretary - Bashayer Alhanini
 * Treasurer - Audrey Hendon
-* Trustee - Joshua Edgcombe
+* Public Relations - Joshua Edgcombe
 * Academic Advisor - Dr. Ward
 
 Contact Us
 ----------
-Email the secretary, Ethan Ruffing, at <ruffing.e.us@ieee.org> with any
+Email the chair, Ethan Ruffing, at <ruffing.e.us@ieee.org> with any
 questions.
 
 Find Us Elsewhere
