@@ -20,7 +20,7 @@ Officers
 
 Contact Us
 ----------
-Email the chair, Ethan Ruffing, at <ruffing.e.us@ieee.org> with any
+Contact us by email at <ieee@mail.gvsu.edu> with any
 questions.
 
 Find Us Elsewhere
