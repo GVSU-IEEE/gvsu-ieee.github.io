@@ -39,7 +39,7 @@ Contact List
 ------------
 We will always send notices of events through the School of Engineering email
 list. If you are not a member of the School of Engineering (i.e., a Computer Science
-student or faculty/staff member, sign up for our contact list using one of the forms
+student or faculty/staff member), sign up for our contact list using one of the forms
 below:
 
 * [Students](http://goo.gl/forms/xgVnzXCaM8): Any GVSU student
