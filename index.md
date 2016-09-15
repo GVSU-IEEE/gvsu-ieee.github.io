@@ -28,9 +28,18 @@ Find Us Elsewhere
 * GVSU OrgSync: <https://orgsync.com/124662/chapter>
 * GitHub: <https://github.com/GVSU-IEEE>
 
+Joining
+-------
+To join, first join as a member of IEEE by visiting
+[http://ieee.org/join](http://ieee.org/join). Then, fill out
+[this form](http://goo.gl/forms/xgVnzXCaM8), and be sure to include your IEEE
+member number.
+
 Contact List
 ------------
-To be added to our contact list, use the appropriate link from the options
+We will always send notices of events through the School of Engineering email
+list. If you are not a member of the School of Engineering (i.e., a Computer Science
+student or faculty/staff member, sign up for our contact list using one of the forms
 below:
 
 * [Students](http://goo.gl/forms/xgVnzXCaM8): Any GVSU student
